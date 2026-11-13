@@ -1,5 +1,11 @@
 # create-elfui
 
+## 0.1.0-beta.28
+
+### Patch Changes
+
+- Fix generated application formatting so recommended projects pass their initial Prettier check.
+
 ## 0.1.0-beta.27
 
 ### Patch Changes

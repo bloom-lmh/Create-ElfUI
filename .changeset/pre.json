@@ -12,6 +12,7 @@
     "align-beta-thirteen-toolchain",
     "center-beta-twenty-one-example",
     "compact-interactive-flow",
+    "fix-generated-project-formatting",
     "fix-windows-drive-root",
     "generate-components",
     "harden-consumer-release",
